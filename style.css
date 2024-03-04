@@ -36,6 +36,8 @@ body {
     background: #fff;
     border-radius: 1rem 0 0 1rem;
     z-index: 1000;
+    padding: 20px;
+    overflow: hidden;
 }
 
 .logo img{
@@ -137,11 +139,6 @@ body {
     background: #e2336b;
 }
 
-.main-home {
-    padding: 20px;
-    overflow: hidden;
-}
-
 .header {
     display: flex;
     align-items: center;
@@ -165,7 +162,7 @@ body {
     margin-left: 7px;
 }
 
-.search o{
+.search{
     font-size: 20px;
 }
 
